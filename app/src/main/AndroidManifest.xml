@@ -15,7 +15,7 @@
             android:value="larkPluginDemo" />
         <meta-data
             android:name="com.qihoo360.plugin.version.ver"
-            android:value="101" />
+            android:value="102" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
